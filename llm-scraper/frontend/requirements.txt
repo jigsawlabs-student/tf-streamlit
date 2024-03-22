@@ -1,0 +1,5 @@
+streamlit
+black
+altair
+plotly
+python-dotenv

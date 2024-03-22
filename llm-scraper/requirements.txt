@@ -1,0 +1,13 @@
+requests
+bs4
+click
+pytest
+selenium
+webdriver_manager
+flask_sqlalchemy
+flask
+llama-index
+llama-index-llms-openai
+llama-index-program-openai
+streamlit
+python-dotenv

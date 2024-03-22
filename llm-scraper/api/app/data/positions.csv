@@ -1,0 +1,71 @@
+job_id,job_title,company_name,seniority_level,min_salary,max_salary,city,state,zipcode,presence,scraping_id
+75a64926d6c151cf,GCP Data Engineer,Chabez Tech,,,,Sunnyvale,CA,,,2
+08edefb8005c9e6e,Data Engineer,DATAMAXIS,,,,,CA,,remote,2
+174a95e1f89b1d1e,Azure Data Engineer,TekValue IT Solutions,,65,70,Framingham,MA,01701,,2
+6ab6c051c903c910,Senior Data Engineer,Short Story,senior,,,Remote,,,remote,2
+34252074bf833a5b,Senior Data Engineer,Brightcove,senior,,,Remote,,,remote,2
+ae04c630394ce165,Data Engineer,MasterClass,sr.,,,San Francisco,CA,,,2
+bd4d901f52326a67,Data Engineer,Armor Defense Inc,,,,Plano,TX,75024,,2
+8983c1f68cd5270a,Senior Data Engineer,EOS,senior,,,Pittsburgh,PA,,,2
+8ed280c911713ddd,Data Engineer,Spirit Airlines,,,,Miramar,FL,33025,,2
+1a297725bf328845,DATA ENGINEER,InfoSync Services,,,,Remote,Wichita,KS 67208,remote,2
+6f2cf892610cf1cc,Data Engineer,Enin Systems,,50,55,Pine Bluff,AR,71601,,2
+1acb3b32bfd007e9,Data Engineer (SSIS),Newbold Advisors,,,,Remote,Cincinnati,OH 45202,remote,2
+b925b404aed1f6eb,Data Engineer,Fortegra,senior,,,Jacksonville,FL,32256,in-person,3
+d116fa5d2f8e8779,Data Engineer,BCMC,senior,,,,,,remote,3
+4b036286bbbdf0ff,Data Engineer,WoodmenLife,I,74668,129603,Omaha,NE,68102,remote,3
+fa6b567464258d71,Data Engineer,Betenbough Business Services,,,,Lubbock,TX,79424,,3
+036d03fdba648b9a,Data Engineer,Roots Management Group,,,120000,Addison,TX,75001,hybrid,3
+79892a3991f1aafb,Data Engineer IV,RevaComm,IV,124100,156500,,,,remote,3
+8e12f69ecb718633,Data Engineer,SynergenX,,,,Tomball,TX,77377,in-person,3
+322e1a05bdd50c22,Data Engineer,Metova,,,,,,,remote,3
+1342e15bb9394af4,Data Engineer,Vestis,,95000,115000,Burbank,CA,91502,remote,3
+d7d552f3aff24e9e,Junior Data Engineer,goop,junior,,,Santa Monica,CA,,,3
+c5469582f210de5e,Data Engineer,TekValue IT Solutions,,,,Miami,FL,,,3
+361622007d312a63,Data Engineer,Bridge Core (BCore),,,,McLean,VA,,,3
+40439d2ef908d0cd,Big Data Engineer,Siri info solution,,,,,,,remote,3
+d38a8d087a398a73,SAS Data Engineer,Presbyterian Healthcare Services,,,69.72,Albuquerque,NM,87113,remote,3
+9cad047e00061db7,Data Engineer III,American Express Global Business Travel,III,,,Bellevue,WA,,,3
+2fadcdc63288ed48,Data Engineer,Signify Health,III,92300,160800,,,,remote,4
+37f70c2877ecb8bd,Big Data Engineer,Zodiac Solutions,,,,,,,remote,4
+8aaeacc200f69ca7,Data Engineer,National Funding,,101000,151000,San Diego,CA,92121,in-person,4
+94c7a03ce694aa60,SQL Server Database Engineer,ValueTEK Inc,,,,,,,remote,4
+a915c92ffb13dad4,Data Engineer,Centurion Consulting Group,,,,Baltimore,MD,,,4
+3d8af168cc7f1e53,Data Engineer,Changeis,,,,,,,remote,4
+c4c8bb98c144ca30,Data Engineer,JMark Services Inc.,,,,Honolulu,HI,,,4
+7e4a46838d910864,Data Engineer,IGS Solutions LLC,I,,,Los Angeles,CA,90058,,4
+4e01adac0c90375f,Data Engineer,Mott MacDonald,,,,Houston,TX,,,4
+808fe2886c08e6b8,Big Data/Machine Learning Software Engineer,Nova Ltd.,,,,Fremont,CA,94538,,4
+b90bdbea31869fbc,Data Engineer,Principal Financial Group,II,63750,147600,Des Moines,IA,50392,hybrid,4
+b56d9f63510cfeaa,Sr. Data Engineer - Artificial Intelligence,"The Travelers Companies, Inc.",,138100,227800,Hartford,CT,,hybrid,4
+f51793760105696f,Snowflake Data Engineer,Volto Consulting,,,,,,,remote,4
+2ebbd9765914a76a,Data Engineer,Codeignitors inc,,,,Virginia,VA,Unknown,Unknown,5
+2fa2189ab9be6d4c,Data Engineer,zuven Technologies,,,,Remote,Unknown,Unknown,Remote,5
+0fceb11d4521d209,Data Engineer,"Arch Systems, LLC",,,,Remote,Unknown,Unknown,Remote,5
+44bb65584a747c9c,Data Engineer,chenoa inc,,,,Remote,Unknown,Unknown,Remote,5
+9bab80a06296e1b1,Data Engineer II,Lulus Fashion Lounge Llc,,100000,122000,Chico,CA,95928,Remote,5
+5f8374c8ddcfff81,Data Engineer,Siddhi Solutions,,65,70,Spring,TX,77381,Unknown,5
+ae976f21a8a14b14,Data Engineer,Capital Group Companies,,,,Irvine,CA,Unknown,Unknown,5
+1050ceda62ab4139,GCP Data Engineer,keasis Inc,,,,Parsippany,NJ,07054,Unknown,5
+64d89605dbd00c53,Senior Data Engineer,Blankfactor,,,,Miami,FL,Unknown,Unknown,5
+b599d7cef6a9defa,Data / Senior Data Engineer,The Hanover Insurance Group,,,,Remote,Unknown,Unknown,Remote,5
+1efb8cc5d5dd50db,Senior Data Engineer,Aurora Payments LLC,,,,Las Vegas,NV,89118,Remote,5
+d23d787fcb1e1a27,Data Engineer - Remote,"Intelliswift Software, Inc.",,,,Seattle,WA,Unknown,Remote,5
+1b383a644780dfd4,Genomics Data Engineer (Joint Genome Institute),Lawrence Berkeley National Laboratory,,126900,158628,San Francisco Bay Area,CA,Unknown,Hybrid remote,5
+7a5a9b6ddb6d735f,"Principal Engineer, IT – Data Engineering",Builders FirstSource,,124350,207250,Remote,Unknown,Unknown,Remote,5
+afece6001fb4eb54,Data Engineer,Disney Entertainment & ESPN Technology,,136038,182490,New York,NY,,,6
+5a1bc15dbff199ed,Data Engineer,Codeignitors inc,,,,California,,,,6
+9f17ba302b003f8b,Data Engineer - Azure & Databricks,Blueprint Technologies,Sr.,146400,175100,Dallas,TX,,remote,6
+6f8ce3d98826d4d2,Data Engineer,Mars,,,,Chicago,IL,60601,hybrid,6
+08aa6def192357d9,Data Engineer,Panalgo,,,,,,,remote,6
+01109174560ec43c,Data Engineer,EmpiRx Health,,,,Montvale,NJ,07645,,6
+8205e9479d12b03a,Data Specialist,Nudj Health,,,,,,,remote,6
+baafe612f2b68ad9,Data Engineer Consultant,Sera Prognostics,,,,Salt Lake City,UT,,,6
+03da1692425be6b4,Data Engineer,Canyon Associates,,,,Bridgewater,NJ,08807,hybrid,6
+681a4bbb18fa81b4,"Data Engineer, Analytics",Meta,,96990,134000,New York,NY,,,6
+76a3b08171504802,Python Data Engineer,Infocodec Solutions,,,,New York,NY,,,6
+79a75390cc2dba7e,Geospatial Data Engineer,Ready,,,,California,,,remote,6
+d787de71c468442b,Associate Data Engineer,Harris Computer Systems,associate,,,California,,,,6
+0eb33a1a0341a63e,Data Engineer,Kenco Management Services LLC,,,,Chattanooga,TN,37406,,6
+65c4ad9a9b611265,Junior Data Engineer,TEKletics,junior,,,,,,remote,6
+48c9709962967e7e,Data Integration Engineer,Pacific Life,,,,Newport Beach,CA,92660,,6
