@@ -22,6 +22,7 @@ resource "aws_instance" "backend_server" {
   ami           = "ami-07d9b9ddc6cd8dd30"
   instance_type = "t2.micro"
   key_name = "example"
+  # 
   depends_on = [aws_db_instance.postgres_db]
   vpc_security_group_ids = [aws_security_group.web_app.id]
   
@@ -63,6 +64,3 @@ output "ec2_connection_instructions" {
   value = "ssh with the following: ssh -i ~/.ssh/${aws_instance.backend_server.key_name}.pem ubuntu@${aws_instance.backend_server.public_dns}" 
 }
 
-output "rendered_template" {
-  value = data.template_file.init_script.rendered
-}

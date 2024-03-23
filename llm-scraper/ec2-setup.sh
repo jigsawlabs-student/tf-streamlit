@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# Name of the first container to check
-sudo apt-get update
-sudo apt install postgresql-client-common
-sudo apt-get install postgresql-client
-sudo snap install docker
-sudo systemctl start snap.docker.dockerd.service
 
-export NETWORK_NAME="my-network"
+# sudo apt-get update
+# sudo apt install postgresql-client-common
+# sudo apt-get install postgresql-client
+# sudo snap install docker
+# sudo systemctl start snap.docker.dockerd.service
+
+export NETWORK_NAME="jobs-scraper"
 export BACKEND_CONTAINER="backend"
 export FRONTEND_CONTAINER="frontend"
 export BACKEND_IMAGE="jek2141/scraper_backend"
@@ -16,7 +16,11 @@ export DB_USERNAME="postgres"
 export DB_PASSWORD="password"
 export DB_NAME="postgres"
 
-docker pull $BACKEND_IMAGE
+while ! sudo docker image ls | grep -wq ${BACKEND_IMAGE}; do
+  sudo docker pull ${BACKEND_IMAGE}
+  sleep 5
+done
+
 docker pull $FRONTEND_IMAGE
 
 if docker ps -a | grep -wq $BACKEND_CONTAINER; then

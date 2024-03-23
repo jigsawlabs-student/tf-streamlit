@@ -8,4 +8,4 @@ COPY .env .env
 
 COPY ./app ./
 
-CMD ["streamlit", "run", "./index.py", "--server.port=8501", "--server.address=0.0.0.0", "--server.port=80"]
+CMD ["streamlit", "run", "./index.py", "--server.address=0.0.0.0", "--server.port=80"]
